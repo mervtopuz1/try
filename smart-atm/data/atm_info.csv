@@ -1,0 +1,104 @@
+atm_id,location,atm_type,atm_age,bank
+1,Hospital,Indoor,8,Ziraat
+2,City Center,Indoor,7,Ziraat
+3,University,Indoor,7,Ziraat
+4,Metro,Indoor,8,Ziraat
+5,City Center,Outdoor,8,Ziraat
+6,Metro,Outdoor,5,Ziraat
+7,University,Outdoor,6,Ziraat
+8,University,Outdoor,5,Ziraat
+9,Mall,Outdoor,10,Ziraat
+10,Residential,Indoor,9,Ziraat
+11,Mall,Indoor,10,Ziraat
+12,Hospital,Outdoor,3,Ziraat
+13,Hospital,Indoor,4,Ziraat
+14,Mall,Indoor,5,Ziraat
+15,Metro,Indoor,5,Ziraat
+16,Mall,Indoor,2,Ziraat
+17,Hospital,Indoor,2,Ziraat
+18,University,Indoor,10,Ziraat
+19,City Center,Outdoor,4,Ziraat
+20,Hospital,Indoor,7,Ziraat
+21,Hospital,Indoor,8,Ziraat
+22,Metro,Outdoor,1,Ziraat
+23,Hospital,Outdoor,8,Ziraat
+24,Hospital,Outdoor,6,Ziraat
+25,Residential,Outdoor,4,Ziraat
+26,Residential,Indoor,2,Ziraat
+27,University,Outdoor,2,Ziraat
+28,University,Outdoor,4,Ziraat
+29,Residential,Indoor,8,Ziraat
+30,Residential,Indoor,9,Ziraat
+31,Residential,Outdoor,5,Ziraat
+32,City Center,Outdoor,5,Ziraat
+33,University,Indoor,9,Ziraat
+34,City Center,Indoor,1,Ziraat
+35,Mall,Indoor,9,Ziraat
+36,Mall,Outdoor,8,Ziraat
+37,Metro,Indoor,1,Ziraat
+38,Metro,Indoor,1,Ziraat
+39,Metro,Indoor,10,Ziraat
+40,University,Indoor,7,Ziraat
+41,Mall,Outdoor,2,Ziraat
+42,Mall,Outdoor,7,Ziraat
+43,Residential,Outdoor,5,Ziraat
+44,Metro,Outdoor,8,Ziraat
+45,Residential,Indoor,3,Ziraat
+46,Mall,Indoor,5,Ziraat
+47,Residential,Indoor,1,Ziraat
+48,City Center,Outdoor,7,Ziraat
+49,Residential,Indoor,9,Ziraat
+50,University,Outdoor,3,Ziraat
+51,University,Indoor,2,Ziraat
+52,Residential,Indoor,7,Ziraat
+53,City Center,Indoor,4,VakıfBank
+54,City Center,Outdoor,7,Ziraat
+55,Metro,Indoor,6,VakıfBank
+56,Hospital,Outdoor,10,VakıfBank
+57,City Center,Outdoor,9,VakıfBank
+58,City Center,Outdoor,4,VakıfBank
+59,Residential,Outdoor,10,VakıfBank
+60,Hospital,Indoor,7,VakıfBank
+61,Residential,Indoor,1,VakıfBank
+62,Mall,Indoor,9,VakıfBank
+63,Hospital,Indoor,9,VakıfBank
+64,Metro,Indoor,6,VakıfBank
+65,Metro,Indoor,5,VakıfBank
+66,Mall,Indoor,10,VakıfBank
+67,Hospital,Outdoor,6,VakıfBank
+68,Mall,Outdoor,1,VakıfBank
+69,Residential,Indoor,10,VakıfBank
+70,Hospital,Outdoor,7,VakıfBank
+71,University,Indoor,1,VakıfBank
+72,City Center,Indoor,8,VakıfBank
+73,Mall,Indoor,1,VakıfBank
+74,University,Outdoor,6,VakıfBank
+75,City Center,Outdoor,1,VakıfBank
+76,Mall,Indoor,2,VakıfBank
+77,City Center,Outdoor,10,VakıfBank
+78,Residential,Outdoor,7,VakıfBank
+79,Hospital,Indoor,8,VakıfBank
+80,Metro,Indoor,6,VakıfBank
+81,City Center,Outdoor,2,VakıfBank
+82,Residential,Outdoor,1,VakıfBank
+83,Mall,Outdoor,6,VakıfBank
+84,City Center,Indoor,4,VakıfBank
+85,Hospital,Indoor,4,VakıfBank
+86,Metro,Outdoor,3,VakıfBank
+87,Metro,Outdoor,7,VakıfBank
+88,Hospital,Indoor,1,VakıfBank
+89,University,Outdoor,1,VakıfBank
+90,Metro,Outdoor,9,VakıfBank
+91,Mall,Outdoor,7,VakıfBank
+92,Residential,Outdoor,3,VakıfBank
+93,Hospital,Outdoor,10,VakıfBank
+94,Mall,Outdoor,1,VakıfBank
+95,University,Indoor,5,VakıfBank
+96,City Center,Outdoor,7,VakıfBank
+97,Mall,Indoor,3,VakıfBank
+98,Metro,Outdoor,3,VakıfBank
+99,Hospital,Outdoor,6,VakıfBank
+100,Mall,Outdoor,4,Ziraat
+101,Mall,Outdoor,4,Ziraat
+102,Hospital,Outdoor,13,Ziraat
+103,Hospital,Indoor,15,Ziraat
