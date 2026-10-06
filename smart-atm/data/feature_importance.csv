@@ -1,0 +1,23 @@
+feature,importance
+withdrawal_30d_avg,0.23690811
+location_Hospital,0.13360415
+location_University,0.1109993
+day_of_month,0.10423739
+day_of_week,0.07677007
+location_Metro,0.06565934
+location_City Center,0.05908519
+withdrawal_14d_avg,0.05644929
+transactions,0.017893288
+previous_day_transactions,0.012969412
+month,0.012690443
+transactions_7d_avg,0.012353495
+same_day_last_week,0.011677187
+withdrawal_7d_std,0.011437215
+withdrawal_7d_avg,0.011217865
+previous_day_withdrawal,0.011075563
+atm_type_Indoor,0.010326081
+is_holiday,0.010263936
+atm_age,0.009376438
+atm_id,0.00909262
+atm_type_Outdoor,0.008433917
+is_weekend,0.0074796886
