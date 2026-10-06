@@ -1,0 +1,8 @@
+feature,importance
+failure_count,0.5751569
+maintenance_count,0.13328488
+atm_age,0.077222355
+days_since_maintenance,0.06674229
+dispenser_errors,0.06297144
+card_reader_errors,0.047667433
+network_errors,0.03695464
